@@ -18,4 +18,8 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CalculadoraDescontos.App\CalculadoraDescontos.App.csproj" />
+  </ItemGroup>
+
 </Project>
